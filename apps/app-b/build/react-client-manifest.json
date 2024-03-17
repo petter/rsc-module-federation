@@ -1,0 +1,72 @@
+{
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js": {
+    "id": "./src/router.js",
+    "chunks": [
+      "main"
+    ],
+    "name": "*"
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js#": {
+    "id": "./src/router.js",
+    "chunks": [
+      "main"
+    ],
+    "name": ""
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js#Router": {
+    "id": "./src/router.js",
+    "chunks": [
+      "main"
+    ],
+    "name": "Router"
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js#useRouter": {
+    "id": "./src/router.js",
+    "chunks": [
+      "main"
+    ],
+    "name": "useRouter"
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Counter.js": {
+    "id": "./src/Counter.js",
+    "chunks": [
+      "client0"
+    ],
+    "name": "*"
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Counter.js#": {
+    "id": "./src/Counter.js",
+    "chunks": [
+      "client0"
+    ],
+    "name": ""
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Counter.js#Counter": {
+    "id": "./src/Counter.js",
+    "chunks": [
+      "client0"
+    ],
+    "name": "Counter"
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Nav.js": {
+    "id": "./src/Nav.js",
+    "chunks": [
+      "client1"
+    ],
+    "name": "*"
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Nav.js#": {
+    "id": "./src/Nav.js",
+    "chunks": [
+      "client1"
+    ],
+    "name": ""
+  },
+  "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Nav.js#default": {
+    "id": "./src/Nav.js",
+    "chunks": [
+      "client1"
+    ],
+    "name": "default"
+  }
+}

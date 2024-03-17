@@ -1,0 +1,48 @@
+{
+  "./src/router.js": {
+    "*": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/router.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/router.js",
+      "name": ""
+    },
+    "Router": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/router.js",
+      "name": "Router"
+    },
+    "useRouter": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/router.js",
+      "name": "useRouter"
+    }
+  },
+  "./src/MicroFrontend.js": {
+    "*": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/MicroFrontend.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/MicroFrontend.js",
+      "name": ""
+    },
+    "MicroFrontend": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/MicroFrontend.js",
+      "name": "MicroFrontend"
+    }
+  },
+  "./src/Nav.js": {
+    "*": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/Nav.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/Nav.js",
+      "name": ""
+    },
+    "default": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-a/src/Nav.js",
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "./src/router.js": {
+    "*": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js",
+      "name": ""
+    },
+    "Router": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js",
+      "name": "Router"
+    },
+    "useRouter": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/router.js",
+      "name": "useRouter"
+    }
+  },
+  "./src/Counter.js": {
+    "*": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Counter.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Counter.js",
+      "name": ""
+    },
+    "Counter": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Counter.js",
+      "name": "Counter"
+    }
+  },
+  "./src/Nav.js": {
+    "*": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Nav.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Nav.js",
+      "name": ""
+    },
+    "default": {
+      "specifier": "file:///Users/petter/workspace/domstol/weboverbygg-eksperimenter/rsc-custom/apps/app-b/src/Nav.js",
+      "name": "default"
+    }
+  }
+}
